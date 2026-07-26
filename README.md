@@ -1,4 +1,4 @@
-# AI Retrofit Playbook
+# AI Retrofit Playbook: how to add AI features to an existing product
 
 [![CI](https://github.com/amin-ale/ai-retrofit-playbook/actions/workflows/ci.yml/badge.svg)](https://github.com/amin-ale/ai-retrofit-playbook/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
